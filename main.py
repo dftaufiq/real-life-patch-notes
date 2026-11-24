@@ -3,10 +3,11 @@
 import os
 
 # Deterministic: the same single line is written on every run, byte for byte.
-# The bug: eye floaters — a tiny transparent worm that follows the gaze
-# and dodges every attempt to look at it.
+# The bug: calling the teacher "mom" in front of the whole class — the mouth
+# refuses to issue a correction. Resubmit (round 2): the round-1 line
+# (eye floaters, v1.4.7) ranked #1196 of 2197, below the 500 cut — frozen.
 
-LINE = "v1.4.7: fixed a bug where the eyes rendered a tiny transparent worm that follows the user's gaze and dodges every attempt to look at it."
+LINE = "v1.9.9: fixed a bug where the mouth called the teacher 'mom' in front of 30 classmates and then refused to issue a correction."
 
 out_dir = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
 os.makedirs(out_dir, exist_ok=True)

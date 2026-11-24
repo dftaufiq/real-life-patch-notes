@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-0xb3e689-real-life-patch-notes-the-comedy-changelog-c5844c1d/dftaufiq/real-life-patch-notes/rank.svg)](https://make.fun/bounty/u-0xb3e689-real-life-patch-notes-the-comedy-changelog-c5844c1d/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-0xb3e689-real-life-patch-notes-the-comedy-changelog-c5844c1d)
 [![reward](https://make.fun/badge/u-0xb3e689-real-life-patch-notes-the-comedy-changelog-c5844c1d/dftaufiq/real-life-patch-notes/reward.svg)](https://make.fun/bounty/u-0xb3e689-real-life-patch-notes-the-comedy-changelog-c5844c1d?utm_source=github&utm_medium=readme&utm_campaign=u-0xb3e689-real-life-patch-notes-the-comedy-changelog-c5844c1d)
 
-A program that writes one patch-note line for a real-life bug: v1.4.7 fixes eye floaters, a tiny transparent worm that follows your gaze and dodges every attempt to look at it. Deterministic — every run writes the same line, byte for byte.
+A program that writes one patch-note line for a real-life bug: v1.9.9 fixes the mouth calling the teacher "mom" in front of 30 classmates — and then refusing to issue a correction. Deterministic — every run writes the same line, byte for byte.
 
 ## Run it
 
